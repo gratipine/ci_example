@@ -1,3 +1,4 @@
 # environment
 .venv/
 .vscode/
+__pycache__
