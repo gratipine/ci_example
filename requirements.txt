@@ -1,2 +1,4 @@
 pandas==1.4.1
 ipython==8.0.1
+pylint
+pytest
