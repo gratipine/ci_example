@@ -4,4 +4,3 @@ pylint
 pytest
 flake8
 flake8-docstrings
-unittest
